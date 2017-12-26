@@ -1,0 +1,38 @@
+{
+  "name": "megadata",
+  "version": "0.1.0",
+  "description": "Server for Plug & Play control and management of devices DCN (Domotic Control Node) in real time, without centrals and bidirectional. ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domoteco/megadata.git"
+  },
+  "keywords": [
+    "iot",
+    "domotica",
+    "plug",
+    "and",
+    "play",
+    "bidirectional",
+    "real",
+    "time",
+    "no",
+    "central",
+    "decentralized",
+    "abdon",
+    "domoteco",
+    "xonork"
+  ],
+  "author": "Judlup Luna <judlup@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/domoteco/megadata/issues"
+  },
+  "homepage": "https://github.com/domoteco/megadata#readme",
+  "dependencies": {
+    "figlet": "^1.2.0"
+  }
+}
